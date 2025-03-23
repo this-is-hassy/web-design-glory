@@ -1508,3 +1508,10 @@ body {
     margin-top: 0;
   }
 }
+
+@media (max-width: 414px) {
+.trophy-size {
+    width: 313px;
+    height: auto;
+}
+}
