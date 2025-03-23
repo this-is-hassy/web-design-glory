@@ -1411,6 +1411,10 @@ body {
   .section-work {
     padding: 4rem 2rem;
   }
+   .hero-heading h1 {
+    font-size: 50px;
+    line-height: 65px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -1441,10 +1445,7 @@ body {
     margin-top: 8rem;
   }
 
-  .hero-heading h1 {
-    font-size: 85px;
-    line-height: 95px;
-  }
+ 
   .cent-line {
     width: 50%;
   }
