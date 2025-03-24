@@ -1545,4 +1545,8 @@ body {
   .section-services h1{
     line-height: 80px;
   }
+      .logo {
+        width: 100px;
+        height: 50px;
+    }
 }
