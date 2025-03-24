@@ -1514,4 +1514,20 @@ body {
     width: 240px;
     height: auto;
 }
+  .faq-context p {
+    font-size: 20px;
 }
+
+  .win-card img{
+    width: 100px;
+  }
+
+      .win-card p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+  h2 {
+        font-size: 38px;
+        line-height: 60px;
+  }
