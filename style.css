@@ -1510,6 +1510,9 @@ body {
 }
 
 @media (max-width: 414px) {
+  .win-card{
+    padding: 1rem 2rem;
+  }
 .trophy-size {
     width: 240px;
     height: auto;
