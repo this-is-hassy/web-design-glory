@@ -1518,8 +1518,8 @@ body {
     font-size: 20px;
 }
 
-  .win-card img{
-    width: 100px;
+  .win-logo{
+    width: 90px;
   }
 
       .win-card p {
@@ -1549,4 +1549,14 @@ body {
         width: 100px;
         height: 50px;
     }
+  .hero-heading p{
+    font-size: 20px;
+  }
+   .section-brand h5{
+    font-size: 42px;
+  }
+  .section-brand p{
+    font-size: 18px;
+    line-height: 30px
+  }
 }
