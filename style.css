@@ -1562,4 +1562,8 @@ body {
     font-size: 18px;
     line-height: 30px
   }
+  .mob-font {
+    font-size: 40px;
+    font-weight: 700;
+}
 }
